@@ -27,7 +27,7 @@ Virtual machine을 사용하여 리눅스 환경에서 운영체제를 구현하
 - COMP422 / 소프트웨어공학 / 2020 / 1학기 / 권영우
 
 
-# 4. [이미지 인식 기반 인공지능 자율주행 자동차](https://github.com/tgs04013/AutoDrive)
+# 4. [이미지 인식 기반 인공지능 자율주행 자동차](https://github.com/tgs04013/Hustar-HAI)
 
 ## 요약문
 Hustar 참여 학생들끼리 인공지능 자율주행 자동차를 구현하기 위해서 .
